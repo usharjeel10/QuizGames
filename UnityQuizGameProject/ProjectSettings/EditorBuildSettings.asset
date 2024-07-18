@@ -1,0 +1,62 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/QuizGameScenes/FirstScene.unity
+    guid: fde17f3f5989b0a4687f7cf85e6d6db1
+  - enabled: 1
+    path: Assets/Scenes/QuizGameScenes/Main Menu.unity
+    guid: 816456de67459094f92a3ef8584a2a53
+  - enabled: 1
+    path: Assets/Scenes/QuizGameScenes/Levels/level 1.unity
+    guid: e45794cee78b09f49992914c800d8041
+  - enabled: 1
+    path: Assets/Scenes/QuizGameScenes/Levels/level 2.unity
+    guid: 1e98cd3b8a168af4eb508effe57cebf7
+  - enabled: 1
+    path: Assets/Scenes/QuizGameScenes/Levels/level 3.unity
+    guid: 0bbb857be70d82e469d7c071f9a83253
+  - enabled: 1
+    path: Assets/Scenes/QuizGameScenes/Levels/level 4.unity
+    guid: 691cc138b06986244966410fa65b8811
+  - enabled: 1
+    path: Assets/Scenes/QuizGameScenes/Levels/level 5.unity
+    guid: eac64f0e0df612843b901f3726a88e32
+  - enabled: 1
+    path: Assets/Scenes/G1Scenes/Game1 Main Menu.unity
+    guid: 5848b99244307b44ba8c4c2ffa947dab
+  - enabled: 1
+    path: Assets/Scenes/G1Scenes/Gameplay1.unity
+    guid: 891566563b6ab974caed5dfa435c93ab
+  - enabled: 1
+    path: Assets/Scenes/G1Scenes/Success.unity
+    guid: baaf533397db99546a1cda4d103af54f
+  - enabled: 1
+    path: Assets/Scenes/G1Scenes/Failed.unity
+    guid: 043563a2bbae4e54789030c1200a8785
+  - enabled: 1
+    path: Assets/Scenes/G2Levels/MainMenu2.unity
+    guid: b49cb9c98a2f24d21b4bab19cd17a02b
+  - enabled: 1
+    path: Assets/Scenes/G2Levels/Gameplay2.unity
+    guid: a7b29ef4f1fd54e6f843d3c408b9b590
+  - enabled: 1
+    path: Assets/Scenes/G2Levels/howTo.unity
+    guid: 4a444c4023d614317a1079d723bda649
+  - enabled: 1
+    path: Assets/Scenes/G3Scenes/Game3 Main Menu.unity
+    guid: 74651a9c09adf394590ac0d08aa62e2a
+  - enabled: 1
+    path: Assets/Scenes/G3Scenes/Gameplay3.unity
+    guid: a50fe8a6661d7974981f662474a0e955
+  - enabled: 1
+    path: Assets/roleBall/Scenes/Gameplay 4.unity
+    guid: 08d75a6f6c01e1f44b5aa3dcd2b03648
+  - enabled: 1
+    path: Assets/roleBall/Scenes/level2.unity
+    guid: 7920e84ceca1161459049aeb97030c20
+  m_configObjects: {}

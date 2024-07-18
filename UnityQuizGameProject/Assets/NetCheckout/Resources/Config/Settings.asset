@@ -1,0 +1,28 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 906bab8d0eece0a4d902e20c60f30143, type: 3}
+  m_Name: Settings
+  m_EditorClassIdentifier: 
+  payPalSandboxClientId: 
+  payPalSandboxClientSecret: 
+  payPalClientId: 
+  payPalClientSecret: 
+  payPalSuccessUrl: https://semanticgamesllc.wordpress.com/payment-approved/
+  payPalCancelUrl: https://semanticgamesllc.wordpress.com/payment-canceled/
+  stripeTestPublishableKey: pk_test_51NQZjqE6KZi2Bdbdh3Od3f7T3Mv4tPNDySoL8xCv9AMIIlv2BYmUe9XcByaloJ8rxlVopNGp6eHxKC6kTeuyGujy00BV7CvZnD
+  stripeTestSecretKey: sk_test_51NQZjqE6KZi2Bdbda8cKkm3iXMINNkDn9P7JXWv59ELrbFF5q2qQX7Q3EVDty0Vf5aFwjDOpv83RAlBiByBOAM8M00epeCCP2E
+  stripePublishableKey: 
+  stripeSecretKey: 
+  stripeSuccessUrl: https://semanticgamesllc.wordpress.com/payment-approved/
+  stripeCancelUrl: https://semanticgamesllc.wordpress.com/payment-canceled/
+  currencyCode: USD
+  androidAppUri: netcheckout://semanticgamesllc.payment_callback
